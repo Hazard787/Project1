@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://<https://project1-ki92.onrender.com>.onrender.com/api/:path*" }
+  ]
+}
